@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bec48541d27446095b2255b5a8c594a4",
+    "revision": "6b40ba68783ca561b30f2ff7b885e30f",
     "url": "/shirotone-planner-alpha/index.html"
   },
   {
-    "revision": "c6e2e881d8d8d3d5dfe2",
+    "revision": "449f494b7ab39cdcf454",
     "url": "/shirotone-planner-alpha/static/css/main.daae517f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shirotone-planner-alpha/static/js/2.e64dd228.chunk.js"
   },
   {
-    "revision": "c6e2e881d8d8d3d5dfe2",
-    "url": "/shirotone-planner-alpha/static/js/main.6fdc8535.chunk.js"
+    "revision": "449f494b7ab39cdcf454",
+    "url": "/shirotone-planner-alpha/static/js/main.64ed9f1b.chunk.js"
   },
   {
     "revision": "5e05d2a10244f15ff282",
