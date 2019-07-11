@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shirotone-planner-alpha/precache-manifest.0de2c6681bb0e8d4af81b296645e6b8e.js"
+  "/shirotone-planner-alpha/precache-manifest.8fd55276f0b0275bdcaf3f3eb044bfe9.js"
 );
 
 self.addEventListener('message', (event) => {
