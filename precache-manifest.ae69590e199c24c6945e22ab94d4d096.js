@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bec48541d27446095b2255b5a8c594a4",
+    "revision": "15ec54afb861577b2ab9bef0d40259e2",
     "url": "/shirotone-planner-alpha/index.html"
   },
   {
